@@ -1,0 +1,19 @@
+{
+  "name": "bootcamphometask",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "atulzh07",
+  "packageManager": "yarn@3.2.4",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.19.6",
+    "@babel/preset-env": "^7.20.2",
+    "axios": "^1.2.0",
+    "babel-jest": "^29.3.1",
+    "javascript": "^1.0.0",
+    "jest": "^29.3.1",
+    "jest-matcher-one-of": "^1.0.2",
+
+    "presets" : ["@babel/preset-env"]
+  }
+}
