@@ -34,4 +34,4 @@ Please push your changes to the `main branch` of this repository. You can push o
 
 Once you are finished with the task, please click the `Submit Solution` link on <a href="https://app.codescreen.com/candidate/149460d6-16e1-4268-bb3f-ad115bc0c572" target="_blank">this screen</a>.
 
-A change code
+Removing the code here...
